@@ -8,10 +8,11 @@
     </div>
   </div>
   <ProductList :products="products" />
+  <footer>
+    <a href="https://github.com/BYUCS260/grocery-store-joeparis6">https://github.com/BYUCS260/grocery-store-joeparis6</a>
+  </footer>
 </div>
-<footer>
-  <a href="https://github.com/BYUCS260/grocery-store-joeparis6">https://github.com/BYUCS260/grocery-store-joeparis6</a>
-</footer>
+
 </template>
 
 <script>
